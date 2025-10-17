@@ -7,12 +7,12 @@
     {
       "name": "catalog",
       "types": ["tv"],
-      "idPrefixes": ["my-live-tv"]
+      "idPrefixes": ["cctv"]
     },
     {
       "name": "stream",
       "types": ["tv"],
-      "idPrefixes": ["my-live-tv"]
+      "idPrefixes": ["cctv"]
     }
   ],
   "types": ["tv"],
@@ -24,3 +24,4 @@
     }
   ]
 }
+
