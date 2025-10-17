@@ -9,8 +9,21 @@
       "type": "tv",
       "id": "my-live-tv-catalog",
       "name": "My Live TV Channels",
-      "extra": []
+      "extra": [],
+      "url": "https://fearnwang.github.io/stremio-addon/catalog.json"
     }
   ],
-  "resources": ["catalog", "stream"]
+  "resources": [
+    {
+      "name": "catalog",
+      "type": "tv",
+      "id": "my-live-tv-catalog",
+      "url": "https://fearnwang.github.io/stremio-addon/catalog.json"
+    },
+    {
+      "name": "stream",
+      "type": "tv",
+      "url": "https://fearnwang.github.io/stremio-addon/streams.json"
+    }
+  ]
 }
