@@ -1,5 +1,8 @@
-[
-  {
-    "url": "https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u"
-  }
-]
+{
+  "streams": [
+    {
+      "title": "ZB Source",
+      "url": "http://47.120.41.246:8899/zb.txt"
+    }
+  ]
+}
