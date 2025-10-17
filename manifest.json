@@ -1,9 +1,10 @@
 {
-  "id": "com.example.myaddon",
-  "name": "My Stremio Addon",
-  "description": "示例 Stremio 插件，用于测试 GitHub Pages URL 安装",
+  "id": "my-live-tv",
   "version": "1.0.0",
-  "resources": ["movie", "series"],
-  "types": ["movie", "series"],
-  "idPrefixes": ["tt"]
+  "name": "My Live TV",
+  "description": "Watch live channels from multiple IPTV sources",
+  "resources": ["stream"],
+  "types": ["tv"],
+  "catalogs": [],
+  "idPrefixes": ["tv"]
 }

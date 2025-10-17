@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Live Source 1 (zb.txt)",
+      "url": "http://47.120.41.246:8899/zb.txt"
+    },
+    {
+      "title": "Live Source 2 (kilvn)",
+      "url": "https://live.kilvn.com/iptv.m3u"
+    },
+    {
+      "title": "Live Source 3 (zbds.top)",
+      "url": "https://live.zbds.top/tv/iptv4.m3u"
+    }
+  ]
+}
