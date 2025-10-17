@@ -3,8 +3,14 @@
   "version": "1.0.0",
   "name": "My Live TV",
   "description": "Watch live channels from multiple IPTV sources",
-  "resources": ["stream"],
   "types": ["tv"],
-  "catalogs": [],
-  "idPrefixes": ["tv"]
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "my-live-tv-catalog",
+      "name": "My Live TV Channels",
+      "extra": []
+    }
+  ],
+  "resources": ["catalog", "stream"]
 }
