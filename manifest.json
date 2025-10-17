@@ -2,28 +2,14 @@
   "id": "my-live-tv",
   "version": "1.0.0",
   "name": "My Live TV",
-  "description": "Watch live channels from multiple IPTV sources",
+  "description": "Static live TV add-on from GitHub Pages",
   "types": ["tv"],
   "catalogs": [
     {
       "type": "tv",
       "id": "my-live-tv-catalog",
-      "name": "My Live TV Channels",
-      "extra": [],
-      "url": "https://fearnwang.github.io/stremio-addon/catalog.json"
+      "name": "My Live TV Channels"
     }
   ],
-  "resources": [
-    {
-      "name": "catalog",
-      "type": "tv",
-      "id": "my-live-tv-catalog",
-      "url": "https://fearnwang.github.io/stremio-addon/catalog.json"
-    },
-    {
-      "name": "stream",
-      "type": "tv",
-      "url": "https://fearnwang.github.io/stremio-addon/streams.json"
-    }
-  ]
+  "resources": ["catalog", "stream"]
 }
