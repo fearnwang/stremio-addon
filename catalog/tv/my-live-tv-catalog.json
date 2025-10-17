@@ -1,1 +1,20 @@
+{
+  "metas": [
+    {"id":"cctv1","type":"tv","name":"CCTV-1 综合"},
+    {"id":"cctv2","type":"tv","name":"CCTV-2 财经"},
+    {"id":"cctv3","type":"tv","name":"CCTV-3 综艺"},
+    {"id":"cctv4","type":"tv","name":"CCTV-4 中文国际"},
+    {"id":"cctv5","type":"tv","name":"CCTV-5 体育"},
+    {"id":"cctv6","type":"tv","name":"CCTV-6 电影"},
+    {"id":"cctv7","type":"tv","name":"CCTV-7 军事农业"},
+    {"id":"cctv8","type":"tv","name":"CCTV-8 电视剧"},
+    {"id":"cctv9","type":"tv","name":"CCTV-9 纪录片"},
+    {"id":"cctv10","type":"tv","name":"CCTV-10 科教"},
+    {"id":"cctv11","type":"tv","name":"CCTV-11 戏曲"},
+    {"id":"cctv12","type":"tv","name":"CCTV-12 社会与法"},
+    {"id":"cctv13","type":"tv","name":"CCTV-13 新闻"},
+    {"id":"cctv14","type":"tv","name":"CCTV-14 少儿"},
+    {"id":"cctv15","type":"tv","name":"CCTV-15 音乐"}
+  ]
+}
 
