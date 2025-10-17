@@ -1,5 +1,5 @@
 {
-  "id": "mylive-tv",
+  "id": "my-live-tv",
   "version": "1.0.0",
   "name": "My Live TV",
   "description": "Kilvn Live IPTV for Stremio",
@@ -7,12 +7,12 @@
     {
       "name": "catalog",
       "types": ["tv"],
-      "idPrefixes": ["cctv"]
+      "idPrefixes": ["my-live-tv"]
     },
     {
       "name": "stream",
       "types": ["tv"],
-      "idPrefixes": ["cctv"]
+      "idPrefixes": ["my-live-tv"]
     }
   ],
   "types": ["tv"],
@@ -24,4 +24,3 @@
     }
   ]
 }
-
