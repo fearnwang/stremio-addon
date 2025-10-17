@@ -1,6 +1,8 @@
-
-[
-  {
-    "url": "https://live.kilvn.com/iptv.m3u"
-  }
-]
+{
+  "streams": [
+    {
+      "title": "Kilvn IPTV",
+      "url": "https://live.kilvn.com/iptv.m3u"
+    }
+  ]
+}
