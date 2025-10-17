@@ -1,1 +1,8 @@
-
+{
+  "streams":[
+    {
+      "title":"CCTV-16 体育赛事",
+      "url":"http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226865/1.m3u8"
+    }
+  ]
+}
