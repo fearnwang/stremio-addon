@@ -2,7 +2,7 @@
   "id": "my-live-tv",
   "version": "1.0.0",
   "name": "My Live TV",
-  "description": "Static live TV add-on from GitHub Pages",
+  "description": "Kilvn IPTV channels for Stremio",
   "types": ["tv"],
   "catalogs": [
     {
